@@ -1,2 +1,2 @@
-# CS231n-CNN-AG
+# CS231n
 CNN course
